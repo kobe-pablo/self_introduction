@@ -13,6 +13,12 @@ new Vue({
         subtitle: 'よろしくね．',
       },
       { divider: true, inset: true },
+      {
+        avatar: 'https://1.bp.blogspot.com/-ArjRdInEWeA/X6tmhYIIYTI/AAAAAAABcMU/w7I_OpFBIzo1Yaz168UKnoB1eSccec2UACNcBGAsYHQ/s400/souji_zoukin_boy.png',
+        title: '<a href="https://kobe-pablo.github.io/pages/pageyn.html" target="_blank" style="color: black;">ゆっきー</a>',
+        subtitle: 'よろしく',
+      },
+      { divider: true, inset: true },
     ],
     links: [
       { header: 'Pabloは神戸大学のサークルです．' },
