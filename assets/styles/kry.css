@@ -1,0 +1,13 @@
+body.overview {
+    background-color: white;
+    margin: 100px 200px 400px 200px;
+}
+h1.name {color: purple;}
+span.interested {
+    color: purple;
+    font-size: 20px;
+    border-bottom: solid 3px sandybrown;
+}
+img.torus {
+   text-align: right;
+}
