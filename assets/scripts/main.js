@@ -20,7 +20,7 @@ new Vue({
       },
       { divider: true, inset: true },
       {
-        avatar: './media/ricon.jpeg',
+        avatar: './assets/media/ricon.jpeg',
         title: '<a href="https://kobe-pablo.github.io/self_introduction/pages/pagerk.html" target="_blank" style="color: black;">tyaryu</a>',
         subtitle: 'こんにちは',
       },
