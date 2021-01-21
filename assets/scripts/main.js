@@ -28,7 +28,13 @@ new Vue({
       {
         avatar: 'https://1.bp.blogspot.com/-ArjRdInEWeA/X6tmhYIIYTI/AAAAAAABcMU/w7I_OpFBIzo1Yaz168UKnoB1eSccec2UACNcBGAsYHQ/s400/souji_zoukin_boy.png',
         title: '<a href="https://kobe-pablo.github.io/self_introduction/pages/yo.html" target="_blank" style="color: black;">ヨ</a>',
-        subtitle: '雲になりたい',
+        subtitle: 'がんばる',
+      },
+      { divider: true, inset: true },
+      {
+        avatar: 'https://1.bp.blogspot.com/-ArjRdInEWeA/X6tmhYIIYTI/AAAAAAABcMU/w7I_OpFBIzo1Yaz168UKnoB1eSccec2UACNcBGAsYHQ/s400/souji_zoukin_boy.png',
+        title: '<a href="https://kobe-pablo.github.io/self_introduction/pages/pagewtrn.html" target="_blank" style="color: black;">watarona</a>',
+        subtitle: '猫になりたい',
       },
       { divider: true, inset: true },
     ],
