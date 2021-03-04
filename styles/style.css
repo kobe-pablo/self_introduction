@@ -1,0 +1,88 @@
+body{
+    background-color: antiquewhite;
+    font-size: 17px;
+    color: #666;
+    margin: 0 auto;
+}
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+header{
+    background-color: burlywood;
+    color: cornsilk;
+}
+
+header h1 {
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+    font-family: 'Sriracha', cursive;
+    background-color: darkgoldenrod;
+    padding: 5px;
+}
+
+.mokuzi {
+    padding: 20px;
+    margin: 30px 130px;
+    border: double 5px burlywood;
+}
+
+.mokuzi h2{
+    clear: left;
+    font-weight: normal;
+    margin: 0;
+    background-color: darkgoldenrod;
+    color: antiquewhite;
+    padding: 5px 10px;
+}
+
+.mokuzi ol{
+    padding: 0;
+    margin: 0;
+    list-style: decimal inside;
+}
+
+.mokuzi li {
+    border-bottom: 1px solid darkgoldenrod;
+    width: 50%;
+    float: left;
+    padding: 5px 10px;
+}
+
+.clearfix:after {
+    content: " ";
+    display: table;
+    clear: both;
+}
+
+a{
+    color: #666;
+}
+
+.information h2 {
+    clear: left;
+    font-weight: normal;
+    margin: 20px 0;
+    background-color: darkgoldenrod;
+    color: antiquewhite;
+    padding: 5px 10px;
+
+}
+
+.information img {
+    display: block; 
+    margin: 0 auto;
+}
+
+.information p {
+    margin: 50px;
+}
+
+footer{
+    text-align: center;
+    font-size: 80%;
+}
