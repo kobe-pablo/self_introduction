@@ -39,7 +39,7 @@ new Vue({
       { divider: true, inset: true },
       {
         avatar: 'https://1.bp.blogspot.com/-ArjRdInEWeA/X6tmhYIIYTI/AAAAAAABcMU/w7I_OpFBIzo1Yaz168UKnoB1eSccec2UACNcBGAsYHQ/s400/souji_zoukin_boy.png',
-        title: '<a href="https://kobe-pablo.github.io/self_introduction/pages/self_introduction.html" target="_blank" style="color: black;">きよの</a>',
+        title: '<a href="https://kobe-pablo.github.io/self_introduction/pages/self-introduction.html" target="_blank" style="color: black;">きよの</a>',
         subtitle: '仕事好きなきよのです',
       },
       { divider: true, inset: true },
